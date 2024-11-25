@@ -144,23 +144,3 @@ Error responses are returned in the following format:
   "message": "Error description"
 }
 ```
-
----
-
-## **Future Enhancements**
-
-- Integration with a real database (e.g., MongoDB or MySQL).
-- Add user authentication for secure coupon generation and validation.
-- Implement rate-limiting for API requests.
-
----
-
-## **Contributing**
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Open a pull request.
-
----
